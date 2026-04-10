@@ -38,7 +38,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 02-03-26 |          |   TP   | Figuring out how to link to repository     |    1:00     |
 | 02-03-26 |          |   IM   | Prime factorization class structure        |    1:30     |
 | 02-04-26 |          |  MTG   | Delegating more tasks, reviewing updates   |    1:00     |
-| 01-21-26 |          |   TP   | Tinkering more with API code               |    1:30     |
+| 02-04-26 |          |   TP   | Tinkering more with API code               |    1:30     |
 | 02-04-26 |          |   IM   | Finishing up main functionality            |    1:30     |
 | 02-05-26 |          |   IM   | Getting presentable                        |    2:00     |
 | 04-09-26 |          |   IM   | Implementing ArrayList datatype            |    1:00     |
