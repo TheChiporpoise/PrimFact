@@ -49,12 +49,14 @@ public class primFact {
         // int index = 0;
         ArrayList<Integer> factors = new ArrayList<>();
 
+        // Divides by 2 until it's odd
         while (num % 2 == 0) {
             // factors[index++] = 2;
             factors.add(2);
             num /= 2;
         }
 
+        // Divides by odd numbers starting from 3 until the square root of num (f * f <= num is more efficient than f <= sqrt(num))
         int f = 3;
         while (f * f <= num) {
             while (num % f == 0) {
